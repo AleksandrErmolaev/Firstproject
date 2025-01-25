@@ -5,3 +5,7 @@
     font-weight: normal;
     padding: 0;
   }
+.footer__column-link:hover {
+  transition: ease-in;
+  opacity: 40%;
+}

@@ -4,3 +4,8 @@
     height: 16px;
     margin-right: 10px;
   }
+
+.footer__social-icon:hover {
+  transition: ease-in;
+  opacity: 40%;
+}
